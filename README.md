@@ -19,4 +19,4 @@
 </div>
 
 Apaixonado por criar soluções inovadoras para processos lentos, que geram custos ou são desnecessários.
-
+Aluno da Digital House!
