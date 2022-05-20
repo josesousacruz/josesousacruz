@@ -18,5 +18,5 @@
 <img align="center" alt="Node.JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 </div>
 
-Apaixonado por criar soluções inovadoras para processos lentos, que geram custos ou são desnecessários.
+Apaixonado por criar soluções inovadoras.
 Aluno da Digital House!
