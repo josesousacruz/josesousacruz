@@ -7,9 +7,9 @@
 
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=jOSEsOUSAFh&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=jOSEsOUSAFh&show_icons=true&theme=radical" alt="GitHub Stats" style="height: 150px;">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jOSEsOUSAFh&theme=blue-green" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jOSEsOUSAFh&theme=blue-green" alt="Top Languages" style="height: 150px;">
 </div>
 
 ## 🚀 Skills / Tecnologias
