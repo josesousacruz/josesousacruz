@@ -12,11 +12,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josesousacruz&theme=blue-green" alt="Top Languages" style="height: 220px">
 </div>
 
-## 🚀 Technologies Worked With / Tecnologias já trabalhadas
+## 🚀 Technologies with Professional Experience / Tecnologias com experiencia profissional
 [![My Skills](https://skills.thijs.gg/icons?i=js,jquery,php,mysql,html,css,git,docker,java&theme=dark)](https://skills.thijs.gg)
 
 
-## 🚀 Technologies Currently Studying / Tecnologias em desenvolvimento
+## 🚀 Technologies Currently Studying / Tecnologias em estudo atualmente
 [![My Skills](https://skills.thijs.gg/icons?i=js,react,ts,nodejs,nextjs,py,java&theme=dark)](https://skills.thijs.gg)
 
 Apaixonado por criar soluções inovadoras!
