@@ -6,7 +6,7 @@
 </div>
 
 <br>
-<div style="display: flex; justify-content: space-between; align-items: center; style="height: 150px;"">
+<div style="display: flex; justify-content: space-between; align-items: center; style="";"">
   <img src="https://github-readme-stats.vercel.app/api?username=jOSEsOUSAFh&show_icons=true&theme=radical" alt="GitHub Stats" style="height: 220px">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jOSEsOUSAFh&theme=blue-green" alt="Top Languages" style="height: 220px">
