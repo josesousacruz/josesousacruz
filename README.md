@@ -13,6 +13,10 @@
 </div>
 
 ## 🚀 Technologies Worked With / Tecnologias já trabalhadas
-[![My Skills](https://skills.thijs.gg/icons?i=js,jquery,php,html,css,git,docker,java&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,jquery,php,mysql,html,css,git,docker,java&theme=dark)](https://skills.thijs.gg)
+
+
+## 🚀 Technologies Currently Studying / Tecnologias em desenvolvimento
+[![My Skills](https://skills.thijs.gg/icons?i=js,react,ts,nodejs,nextjs,py,java&theme=dark)](https://skills.thijs.gg)
 
 Apaixonado por criar soluções inovadoras!
