@@ -12,7 +12,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josesousacruz&theme=blue-green" alt="Top Languages" style="height: 220px">
 </div>
 
-## 🚀 Technologies / Tecnologias
-[![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skills.thijs.gg)
+## 🚀 Technologies Worked With / Tecnologias já trabalhadas
+[![My Skills](https://skills.thijs.gg/icons?i=js,jquery,php,html,css,git,java&theme=light)](https://skills.thijs.gg)
 
 Apaixonado por criar soluções inovadoras!
