@@ -1,12 +1,13 @@
 ### Olá eu sou José Sousa 👋 ✌️
 
-<div style="display: inline_block"><br/> 
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <a href="https://www.linkedin.com/in/josesousacruz/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
+  </a>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josesousacruz/)
+  <img src="https://github-readme-stats.vercel.app/api?username=jOSEsOUSAFh&show_icons=true&theme=radical" alt="GitHub Stats">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jOSEsOUSAFh&show_icons=true&theme=radical)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jOSEsOUSAFh&theme=blue-green)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jOSEsOUSAFh&theme=blue-green" alt="Top Languages">
 </div>
 
 
