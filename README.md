@@ -19,4 +19,4 @@
 ## 🚀 Technologies Currently Studying / Tecnologias em estudo atualmente
 [![My Skills](https://skills.thijs.gg/icons?i=js,react,ts,nodejs,nextjs,py,java&theme=dark)](https://skills.thijs.gg)
 
-Apaixonado por criar soluções inovadoras!
+Apaixonado por criar soluções inovadoras! Futuro expert em JS.
