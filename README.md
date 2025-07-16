@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o José Almir Sousa Cruz Filho
+# 👋 Olá!
 
 <p align="left">
   Desenvolvedor de Software com experiência sólida em sistemas logísticos e operacionais, atuando no desenvolvimento e manutenção de WMS, TMS, YMS, ACMS e PMS.
