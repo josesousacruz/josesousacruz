@@ -19,6 +19,12 @@
 
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,vue,js,python,docker,mysql,git)](https://skillicons.dev)
 
+###
+
+<img src="https://raw.githubusercontent.com/josesousacruz/josesousacruz/output/snake.svg" alt="Snake animation" />
+
+###
+
 ### 🛠️ Outras habilidades
 
 - RESTful APIs, Swagger
