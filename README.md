@@ -16,9 +16,6 @@
 ---
 
 ## 💡 Tecnologias & Ferramentas
-
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,vue,js,python,docker,mysql,git)](https://skillicons.dev)
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
   <img width="12" />
@@ -58,7 +55,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/josesousacruz/output/snake.svg" alt="Snake animation" />
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/josesousacruz/josesousacruz/output/snake.svg" alt="Snake animation" />
 
 ###
 
