@@ -10,7 +10,6 @@
 - 🎓 Graduando em Engenharia de Software na Estácio  
 - 📚 Formado em Logística e com certificações em Full Stack, Gestão de Projetos e Lean Six Sigma (Green Belt)  
 - ⚙️ Experiência com PHP, Laravel, Vue.js, JavaScript, Python, MySQL, Docker e APIs REST  
-- 📈 Foco em automação de processos, integração de sistemas fiscais e operacionais (NF-e, SISCOMEX)  
 - 📍 Salvador - BA  
 
 ---
