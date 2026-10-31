@@ -1,24 +1,24 @@
 # José Almir Sousa Cruz Filho
 
-Desenvolvedor Fullstack em Salvador – BA. Construo e sustento sistemas logísticos e fiscais de alta criticidade em PHP/Laravel, com front-ends em React e Vue.
+Desenvolvedor Fullstack em Salvador – BA. Projeto, construo e mantenho sistemas web de ponta a ponta, do modelo de dados ao deploy, com PHP/Laravel no back-end e React, Vue ou Next.js no front.
 
-Atualmente na **Intermarítima Portos e Logística**, onde reduzi o tempo de emissão de NF-e em 96% (40min → 1min) integrando o sistema portuário a APIs fiscais, e mantenho uma operação 24/7 que processa mais de 300 veículos por dia. Co-founder da **CruzTech**, consultoria de software para clientes B2B.
+Ao longo da carreira trabalhei com operação logística e portuária 24/7, emissão fiscal (NF-e/NFS-e), faturamento, pagamentos via PIX, integração com hardware e APIs de terceiros, e SaaS com vários clientes na mesma base. Já reduzi a emissão de NF-e de 40 minutos para 1 e mantive no ar uma operação que processa mais de 300 veículos por dia. Agora na **SimplesVet**, e co-founder da **CruzTech**, onde desenvolvo produtos próprios e sistemas sob medida.
 
-Trabalho com IA integrada ao ciclo de desenvolvimento — Claude Code, MCP e Specification-Driven Development — para acelerar entregas, gerar testes e diagnosticar incidentes.
+Uso IA como parte do processo de engenharia, não como atalho: Claude Code e Codex trabalhando a partir das mesmas instruções, especificação antes do código (OpenSpec), revisão automatizada e gates de qualidade na CI que só deixam os números melhorarem.
 
 ## Projetos
 
-**[shopets](https://github.com/josesousacruz/shopets)** — PDV + e-commerce em Laravel 12 e React 19 (Inertia). Arquitetura orientada a domínio, emissão de NF-e, frete (Melhor Envio), conciliação OFX, 88 testes, CI/CD.
+**[Cravaê](https://github.com/josesousacruz/cravae)** — Fantasy de palpites do Brasileirão em Laravel 13 e Vue 3 + TypeScript. Cupom por campeonato pago via PIX (Asaas, webhooks idempotentes), placar e autor de cada gol, resultados sincronizados da TheSportsDB em fila, pontuação configurável em banco. Nasceu do bolão da Copa 2026.
 
-**[bolaoInter](https://github.com/josesousacruz/bolaoInter)** — Bolão da Copa 2026 em Laravel e Vue 3. Pagamentos PIX via Asaas com webhooks, pontuação configurável, bracket de mata-mata autorresolvível, transações ACID.
+**[Expandeaê](https://github.com/josesousacruz/pdv-ecommerce)** — Leva a loja física para o e-commerce: o mesmo estoque, catálogo e caixa do PDV alimentam a loja online. Laravel 12 e React 19 (Inertia), loja e painel do lojista em Remix, domínios isolados (DDD), NF-e, frete Melhor Envio, conciliação OFX, DRE e curva ABC.
+
+**[Mercadin](https://mercadin.cruztech.com.br)** — Lista de compras colaborativa que virou organizador da família. Next.js 16 e Supabase (Postgres com RLS, Realtime, Storage): listas compartilhadas em tempo real, histórico e comparador de preços, despesas recorrentes, agenda e documentos. PWA instalável, login com Google.
 
 **[crmCruzTech](https://github.com/josesousacruz/crmCruzTech)** — CRM de consultoria em Laravel 12, Vue 3 e TypeScript. Fluxo lead → proposta com aceite digital → projeto → tarefa, portal do cliente, RBAC, filas Redis.
 
-**[baterponto](https://github.com/josesousacruz/baterponto)** — Controle de ponto em Next.js 15 e Supabase. Metas de horas, cálculo de salário, push notifications, PWA, testes com Vitest.
-
 ## Stack
 
-**Back-end:** PHP 8.2+, Laravel 11/12, Node.js, Python · **Front-end:** React, Next.js, Vue 3, TypeScript, Tailwind · **Dados:** MySQL, PostgreSQL, Redis · **Infra:** Docker, GitHub Actions/GitLab CI, Linux · **Qualidade:** PHPUnit, Vitest, TDD · **IA:** Claude Code, MCP, LLMs
+**Back-end:** PHP 8.2+, Laravel 12/13, Node.js, Python · **Front-end:** React, Next.js, Vue 3, Inertia, TypeScript, Tailwind · **Dados:** MySQL, PostgreSQL, Supabase, Redis · **Infra:** Docker, GitHub Actions/GitLab CI, Vercel, Linux · **Qualidade:** PHPUnit, Vitest, PHPStan, TDD · **IA:** Claude Code, Codex, MCP, OpenSpec
 
 ## Formação
 
