@@ -18,7 +18,11 @@ Uso IA como parte do processo de engenharia, não como atalho: Claude Code e Cod
 
 ## Stack
 
-**Back-end:** PHP 8.2+, Laravel 12/13, Node.js, Python · **Front-end:** React, Next.js, Vue 3, Inertia, TypeScript, Tailwind · **Dados:** MySQL, PostgreSQL, Supabase, Redis · **Infra:** Docker, GitHub Actions/GitLab CI, Vercel, Linux · **Qualidade:** PHPUnit, Vitest, PHPStan, TDD · **IA:** Claude Code, Codex, MCP, OpenSpec
+**Back-end:** PHP 8.2+, Laravel 12/13, Node.js, Python · 
+**Front-end:** React, Next.js, Vue 3, Inertia, TypeScript, Tailwind · 
+**Dados:** MySQL, PostgreSQL, Supabase, Redis · 
+**Infra:** Docker, GitHub Actions/GitLab CI, Vercel, Linux · 
+**Qualidade:** PHPUnit, Vitest, PHPStan, TDD · **IA:** Claude Code, Codex, MCP, OpenSpec
 
 ## Formação
 
