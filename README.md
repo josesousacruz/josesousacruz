@@ -12,7 +12,7 @@ Uso IA como parte do processo de engenharia, não como atalho: Claude Code e Cod
 
 **[Expandeaê](https://github.com/josesousacruz/pdv-ecommerce)** — Leva a loja física para o e-commerce: o mesmo estoque, catálogo e caixa do PDV alimentam a loja online. Laravel 12 e React 19 (Inertia), loja e painel do lojista em Remix, domínios isolados (DDD), NF-e, frete Melhor Envio, conciliação OFX, DRE e curva ABC.
 
-**[Mercadin](https://mercadin.cruztech.com.br)** — Lista de compras colaborativa que virou organizador da família. Next.js 16 e Supabase (Postgres com RLS, Realtime, Storage): listas compartilhadas em tempo real, histórico e comparador de preços, despesas recorrentes, agenda e documentos. PWA instalável, login com Google.
+**[Larzin](https://mercadin.cruztech.com.br)** — Organizador da família: compras, despesas, agenda e documentos num só app, compartilhados em tempo real entre os membros. Next.js 16 e Supabase (Postgres com RLS, Realtime, Storage), PWA instalável, login com Google.
 
 **[crmCruzTech](https://github.com/josesousacruz/crmCruzTech)** — CRM de consultoria em Laravel 12, Vue 3 e TypeScript. Fluxo lead → proposta com aceite digital → projeto → tarefa, portal do cliente, RBAC, filas Redis.
 
