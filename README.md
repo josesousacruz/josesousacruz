@@ -4,7 +4,13 @@ Desenvolvedor Fullstack em Salvador – BA. Projeto, construo e mantenho sistema
 
 Ao longo da carreira trabalhei com operação logística e portuária 24/7, emissão fiscal (NF-e/NFS-e), faturamento, pagamentos via PIX, integração com hardware e APIs de terceiros, e SaaS com vários clientes na mesma base. Já reduzi a emissão de NF-e de 40 minutos para 1 e mantive no ar uma operação que processa mais de 300 veículos por dia. Agora na **SimplesVet**, e co-founder da **CruzTech**, onde desenvolvo produtos próprios e sistemas sob medida.
 
-Uso IA como parte do processo de engenharia, não como atalho: Claude Code e Codex trabalhando a partir das mesmas instruções, especificação antes do código (OpenSpec), revisão automatizada e gates de qualidade na CI que só deixam os números melhorarem.
+## Como trabalho com IA
+
+IA é parte do processo de engenharia, com as mesmas exigências de qualquer outra parte:
+
+- **Spec-Driven Development (SDD):** cada mudança passa por proposta, design e revisão no OpenSpec, e as regras de negócio são levantadas antes da primeira linha de código.
+- **Quality Gates:** a CI compara testes, análise estática e cobertura com uma linha de base que não pode regredir, então a qualidade só melhora.
+- **Context Engineering:** grafo do código, memória persistente via servidor MCP próprio e otimização de tokens, para que os agentes trabalhem com o contexto certo.
 
 ## Projetos
 
@@ -22,12 +28,15 @@ Uso IA como parte do processo de engenharia, não como atalho: Claude Code e Cod
 - **Front-end:** React, Next.js, Vue 3, Inertia, TypeScript, Tailwind
 - **Dados:** MySQL, PostgreSQL, Supabase, Redis
 - **Infra:** Docker, GitHub Actions/GitLab CI, Vercel, Linux
-- **Qualidade:** PHPUnit, Vitest, PHPStan, TDD
-- **IA:** Claude Code, Codex, MCP, OpenSpec
+- **Qualidade:** PHPUnit, Vitest, PHPStan, TDD, Quality Gates
+- **IA:** Claude Code, Codex, MCP, OpenSpec, Graphify
 
 ## Formação
 
-Engenharia de Software (Estácio, em andamento) · Pós-graduação em Arquitetura de Software (Anhanguera) · MBA em Gestão de Projetos de TI (Anhanguera) · Tecnólogo em Logística (Estácio)
+- Engenharia de Software (Estácio, em andamento)
+- Pós-graduação em Arquitetura de Software (Anhanguera)
+- MBA em Gestão de Projetos de TI (Anhanguera)
+- Tecnólogo em Logística (Estácio)
 
 ## Contato
 
